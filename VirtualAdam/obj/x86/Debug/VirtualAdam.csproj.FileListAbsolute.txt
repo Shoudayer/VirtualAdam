@@ -1,0 +1,26 @@
+c:\users\simon-laptop\documents\visual studio 2010\Projects\VirtualAdam\VirtualAdam\bin\Debug\VirtualAdam.exe
+c:\users\simon-laptop\documents\visual studio 2010\Projects\VirtualAdam\VirtualAdam\bin\Debug\VirtualAdam.pdb
+c:\users\simon-laptop\documents\visual studio 2010\Projects\VirtualAdam\VirtualAdam\obj\x86\Debug\VirtualAdam.vAdam.resources
+c:\users\simon-laptop\documents\visual studio 2010\Projects\VirtualAdam\VirtualAdam\obj\x86\Debug\VirtualAdam.Properties.Resources.resources
+c:\users\simon-laptop\documents\visual studio 2010\Projects\VirtualAdam\VirtualAdam\obj\x86\Debug\VirtualAdam.csproj.GenerateResource.Cache
+c:\users\simon-laptop\documents\visual studio 2010\Projects\VirtualAdam\VirtualAdam\obj\x86\Debug\VirtualAdam.exe
+c:\users\simon-laptop\documents\visual studio 2010\Projects\VirtualAdam\VirtualAdam\obj\x86\Debug\VirtualAdam.pdb
+C:\Users\Simon-Laptop\documents\visual studio 2010\Projects\VirtualAdam\VirtualAdam\obj\x86\Debug\VirtualAdam.csprojResolveAssemblyReference.cache
+E:\BTS2\VirtualAdam\VirtualAdam\obj\x86\Debug\VirtualAdam.exe
+E:\BTS2\VirtualAdam\VirtualAdam\obj\x86\Debug\VirtualAdam.pdb
+E:\BTS2\VirtualAdam\VirtualAdam\bin\Debug\VirtualAdam.exe
+E:\BTS2\VirtualAdam\VirtualAdam\bin\Debug\VirtualAdam.pdb
+E:\BTS2\VirtualAdam\VirtualAdam\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\BTS2\VirtualAdam\VirtualAdam\obj\x86\Debug\VirtualAdam.vAdam.resources
+E:\BTS2\VirtualAdam\VirtualAdam\obj\x86\Debug\VirtualAdam.Properties.Resources.resources
+E:\BTS2\VirtualAdam\VirtualAdam\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\BTS2\VirtualAdam\VirtualAdam\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\bts2\Bureau\VirtualAdam\VirtualAdam\obj\x86\Debug\VirtualAdam.exe
+C:\Documents and Settings\bts2\Bureau\VirtualAdam\VirtualAdam\obj\x86\Debug\VirtualAdam.pdb
+C:\Documents and Settings\bts2\Bureau\VirtualAdam\VirtualAdam\bin\Debug\VirtualAdam.exe
+C:\Documents and Settings\bts2\Bureau\VirtualAdam\VirtualAdam\bin\Debug\VirtualAdam.pdb
+C:\Documents and Settings\bts2\Bureau\VirtualAdam\VirtualAdam\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\bts2\Bureau\VirtualAdam\VirtualAdam\obj\x86\Debug\VirtualAdam.vAdam.resources
+C:\Documents and Settings\bts2\Bureau\VirtualAdam\VirtualAdam\obj\x86\Debug\VirtualAdam.Properties.Resources.resources
+C:\Documents and Settings\bts2\Bureau\VirtualAdam\VirtualAdam\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\bts2\Bureau\VirtualAdam\VirtualAdam\obj\x86\Debug\GenerateResource.write.1.tlog

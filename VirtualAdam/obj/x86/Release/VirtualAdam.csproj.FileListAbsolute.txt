@@ -1,0 +1,17 @@
+C:\Users\Simon-Laptop\documents\visual studio 2010\Projects\VirtualAdam\VirtualAdam\bin\Release\VirtualAdam.exe
+C:\Users\Simon-Laptop\documents\visual studio 2010\Projects\VirtualAdam\VirtualAdam\bin\Release\VirtualAdam.pdb
+C:\Users\Simon-Laptop\documents\visual studio 2010\Projects\VirtualAdam\VirtualAdam\obj\x86\Release\VirtualAdam.vAdam.resources
+C:\Users\Simon-Laptop\documents\visual studio 2010\Projects\VirtualAdam\VirtualAdam\obj\x86\Release\VirtualAdam.Properties.Resources.resources
+C:\Users\Simon-Laptop\documents\visual studio 2010\Projects\VirtualAdam\VirtualAdam\obj\x86\Release\VirtualAdam.csproj.GenerateResource.Cache
+C:\Users\Simon-Laptop\documents\visual studio 2010\Projects\VirtualAdam\VirtualAdam\obj\x86\Release\VirtualAdam.exe
+C:\Users\Simon-Laptop\documents\visual studio 2010\Projects\VirtualAdam\VirtualAdam\obj\x86\Release\VirtualAdam.pdb
+C:\Users\Simon-Laptop\documents\visual studio 2010\Projects\VirtualAdam\VirtualAdam\obj\x86\Release\VirtualAdam.csprojResolveAssemblyReference.cache
+E:\BTS2\VirtualAdam\VirtualAdam\obj\x86\Release\VirtualAdam.exe
+E:\BTS2\VirtualAdam\VirtualAdam\obj\x86\Release\VirtualAdam.pdb
+E:\BTS2\VirtualAdam\VirtualAdam\bin\Release\VirtualAdam.exe
+E:\BTS2\VirtualAdam\VirtualAdam\bin\Release\VirtualAdam.pdb
+E:\BTS2\VirtualAdam\VirtualAdam\obj\x86\Release\ResolveAssemblyReference.cache
+E:\BTS2\VirtualAdam\VirtualAdam\obj\x86\Release\VirtualAdam.vAdam.resources
+E:\BTS2\VirtualAdam\VirtualAdam\obj\x86\Release\VirtualAdam.Properties.Resources.resources
+E:\BTS2\VirtualAdam\VirtualAdam\obj\x86\Release\GenerateResource.read.1.tlog
+E:\BTS2\VirtualAdam\VirtualAdam\obj\x86\Release\GenerateResource.write.1.tlog
