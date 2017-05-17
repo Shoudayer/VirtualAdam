@@ -36,8 +36,12 @@ namespace VirtualAdam
                            tb_log.Text = rep;//log toutes les requetes reçues 
                        }));
 
-            int addr = Convert.ToInt16(tb_addr.Text);
-            int addr2 = Convert.ToInt16(tb_addr2.Text);
+
+
+            int addr = (int)numAddr17.Value;
+            int addr2 = (int)numAddr50.Value;
+
+
 
             tb_rep.BeginInvoke((Action)(() =>
             {
